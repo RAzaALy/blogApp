@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar";
+export { default as Home } from "./Home";
+export { default as Contact } from "./Contact";
+export { default as Services } from "./Services";
+export { default as Blog } from "./Blog";
+export { default as About } from "./About";
+export { default as BlogDetails } from "./BlogDetails";
+export { default as BlogCard } from "./BlogCard";
+export { default as Banner } from "./Banner";
+export {default as ContactForm} from "./ContactForm";
+export { default as Footer } from "./Footer";
